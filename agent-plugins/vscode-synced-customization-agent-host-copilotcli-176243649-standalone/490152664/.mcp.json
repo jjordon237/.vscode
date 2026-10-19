@@ -1,0 +1,12 @@
+{
+	"mcpServers": {
+		"pylance mcp server": {
+			"type": "http",
+			"transport": "http",
+			"url": "http://localhost:61568/stream",
+			"headers": {
+				"authorization": "383bda1e87637517abf96ed4987cce0ecc6c939c5cf995f814402f2204c89b69"
+			}
+		}
+	}
+}
